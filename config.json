@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smssalidate",
+        "uuid": 2054175,
+        "checksum": "wzmzqb"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
